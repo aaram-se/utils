@@ -7,6 +7,22 @@
         <groupId>com.monotype.aaram</groupId>
         <artifactId>utils</artifactId>
         <version>0.0.1</version>
+        
+         <name>API-Utils</name>
+            <description>A Utility package with common classes to be used as part of API Automation</description>
+         <url>http://maven.apache.org</url>
+
+        <licenses>
+            <license>
+               <name>Apache License, Version 2.0</name>
+               <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+               <distribution>repo</distribution>
+            </license>
+        </licenses>
+ 
+        <scm>
+            <url>https://github.com/aaram-se/utils</url>
+        </scm>
 
         <dependencies>
             <dependency>
